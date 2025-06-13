@@ -1,0 +1,4 @@
+# Dataset
+We provide the dataset used for training and evaluation as extracted from the raw data on [huggingface.co](https://huggingface.co/datasets/sarahgillet/BrainstormingDataset). The raw data cannot be provided due to constraints given the agreement between participants and the researchers. Snapshots from the some video files can be provided upon request to the research team. Please contact Sarah Gillet if you are interested in using a Snapshot from video files. 
+
+Link: [https://huggingface.co/datasets/sarahgillet/BrainstormingDataset](https://huggingface.co/datasets/sarahgillet/BrainstormingDataset)  

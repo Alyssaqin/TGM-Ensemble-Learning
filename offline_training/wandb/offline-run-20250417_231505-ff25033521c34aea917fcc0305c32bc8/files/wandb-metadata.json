@@ -1,0 +1,21 @@
+{
+    "os": "Linux-4.15.0-213-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2025-04-17T23:15:05.096440",
+    "startedAt": "2025-04-17T23:15:05.072305",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--n_epochs=1",
+        "--early_stopping=True",
+        "--tune_learning_rate==True",
+        "--h_BATCH_SIZE=128"
+    ],
+    "state": "running",
+    "program": "getdata.py",
+    "codePath": "getdata.py",
+    "host": "a19ec8f17857",
+    "username": "root",
+    "executable": "/usr/bin/python3.8"
+}

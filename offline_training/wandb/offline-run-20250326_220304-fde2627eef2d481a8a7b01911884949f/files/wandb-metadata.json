@@ -1,0 +1,32 @@
+{
+    "os": "Linux-4.15.0-213-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2025-03-26T22:03:04.926778",
+    "startedAt": "2025-03-26T22:03:04.913274",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--project_config_name=Teenager",
+        "--h_SEED=0",
+        "--early_stopping=True",
+        "--tune_learning_rate=True",
+        "--google_sheet_id=3",
+        "--h_mess_arch_1=4",
+        "--h_node_arch_1=2",
+        "--h_lookback=30",
+        "--GNN_second_layer=True",
+        "--h_mess_arch_2=2",
+        "--h_node_arch_2=2",
+        "--n_epochs=1",
+        "--loss_module=MSELoss",
+        "--h_BATCH_SIZE=128",
+        "--selected_indices=4,5,9,10,12"
+    ],
+    "state": "running",
+    "program": "TeenagerDataset_fine_tuning.py",
+    "codePath": "TeenagerDataset_fine_tuning.py",
+    "host": "eb649fb84ce3",
+    "username": "root",
+    "executable": "/usr/bin/python3.8"
+}

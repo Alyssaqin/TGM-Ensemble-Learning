@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "teenagers-450219",
+  "private_key_id": "36bb8173156ac84f8b11712b005de70351ad5f7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDUb2Mkp5Ute0Ly\na67r29goOraIhyvsOQFfeshOYIKLN1odF8Nek/ZgB1OT/dsRJV224fXYk7lMb7s7\nsJjTq/bgRlntL7btgcdheXSis9f6AcNFb5ZZTUeBUW4558nFRNspZLc1dMCZtEW4\nSQNhGJWi0fNH8O6oMpNKaQ5eh2mMnnEJDVKqq9xlTq1yFOQS95UtZ/phg3+2NfsJ\nikamYfJKKbCsI+euBzG2x7N5AoR9yqrPtQSRV/oil8QFd5UzabeAvWn/sppgLdr4\nWyBB7pUrSN6h2/dh47TWTXl0Mpm2MXJ40NznG65eUlUrygMAS4Dl5E8wGK6i13at\nJJmTFslJAgMBAAECggEAJcCc0ysIBxLoeRn7dlV1wuJ6RWWWP+76iDwTBGDA2lpO\nJKzwLqrnZjXvG7YJvDCSiLl73g8Up1mU4dz2r+lX4JAIE69+2BMP+onh2TdSSs8M\n45Za1wh1jG0LBHXlhO4Bb8gDChgzUS15FXC+Tb9Xel3K2Q5fb1s7k0X7xH9WmeNM\neNX7DGV7XBTeWLfujrFnD9rGgZfCFF3cEUPim5AKOVIjCTJfbNXM7KQsPhxOygTe\nWxB0nIEqTO+SMQPF+Kg//rtKTcK7tORZiC/S6ODH3HLQgtxHTwh4oLoJueGb7DQN\nh38RF/3XqH88NQezMNp+dG4jUlosGfIB/PcHYt9dvQKBgQDy8gG+regovf8GFQlf\nzwGIUHd7E9VdQCB+6cKbKQHQL2guCzqMqmLq4wmFj0w/U9kTn3xaIRvXOu9gSIrB\n+o/kmlInzAlpCgOrOyqPX/Pmy2LO6AOOOoQ8PoiWcGm8TtX+TrbltioDctKGMtf+\nxvASfsU+JJdm5Whmqs8JyeFqtQKBgQDf2a1SwJZGEEBfnLGtQZJXdXQyH0pRYvqT\nqvotl7+s9pARjHSPYicCoPdQfMJ3Sz2S8peu37PL3EIeGi15pebTzqKrnPOdD0bd\n9ziZAALf5DBxpQuo6BMDpyKeHnpZiVyGk9Mv0R3P3InX8hKztAf1oLah236Wskgq\nCjxdSzB8xQKBgFiTL1ur4Bbqno5DITXTLUXbwJQY+ROUi8R5yb/0RXr3rc4Lvf8H\nKCVnPVN6mVwFYAGthhL+Oz5PeHLsP9rVVZ0NPqLP2yZ2xjupyKyZWT1uLcouAQ3b\n+9ZTHk1rEsHbJF4hqME7lznGpUbURrfXJDQ6EAPGJ4UWYuf7opx5BDx5AoGBALjK\nBFe83hDGl62WN+KTr8/9CMfbpska0UoXqeD7VWLeQ74I2awH1bZI1QCfjRVXimQF\nWYwl5VHT6MzaxVGXz75n5UeQEFdGZjUUQaekJ7tVr1wRaFeuBQxN67jl5hCF4VjD\nLWJa2aZfI3edwSyR4MQ3QKzK+mxCjmoN+xj02fkVAoGARVirjcm2bqfb1CSHZpV7\nBVXuCk5L3nFjbMRtLovpnJqV10gqhJNyM/NB7h4JTyowIRVEJgyaWx1leRUAgisn\nU7r0qNkf2xvGZa2Gysi9riSnKffIrrqn+wH5+IB/HBFmxk8t4sKJhUjypfUdByN5\n9/yBCR4ULiipaNQaF/rD8Dk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teenagerservice@teenagers-450219.iam.gserviceaccount.com",
+  "client_id": "116533580991226873184",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teenagerservice%40teenagers-450219.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,16 @@
+{
+    "os": "Linux-4.15.0-213-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2025-04-17T22:05:02.960760",
+    "startedAt": "2025-04-17T22:05:02.937422",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "getdata.py",
+    "codePath": "getdata.py",
+    "host": "ba78bce0efc3",
+    "username": "root",
+    "executable": "/usr/bin/python3.8"
+}
